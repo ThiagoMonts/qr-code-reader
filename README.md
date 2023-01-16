@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto permite que o usuário, a partir de QR Code possa ler a URL ou um texto através de uma imagem. Este projeto foi desenvolvido com a API do [goQR.me](https://goqr.me/api/). Vale salientar que o site é totalmente responsivo para dispositivos móveis.
+O projeto permite que o usuário possa ler a URL ou um texto a partir de um QR Code. Este projeto foi desenvolvido com a API do [goQR.me](https://goqr.me/api/). Vale salientar que o site é totalmente responsivo para dispositivos móveis.
 
 <br>
 
